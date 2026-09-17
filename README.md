@@ -6,3 +6,10 @@
   <a href="mailto:joseavfernando@gmail.com">E-mail</a> • 
   <a href="https://github.com/joseavfernando">GitHub</a>
 </p>
+
+---
+
+## 🧑‍💻 Sobre mim
+Desenvolvedor focado em desenvolver soluções robustas, escaláveis e alinhadas às melhores práticas de mercado. Tenho experiência com suporte técnico, análise de processos e resolução de bugs, aplicando esse conhecimento para criar arquiteturas eficientes e focadas em performance e qualidade.
+
+---
