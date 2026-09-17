@@ -16,7 +16,7 @@ Desenvolvedor focado em desenvolver soluções robustas, escaláveis e alinhadas
 
 ## 🛠️ Tecnologias e Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,javascript,java,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,javascript,java,postgresql" />
 </div>
 
 ---
@@ -24,7 +24,6 @@ Desenvolvedor focado em desenvolver soluções robustas, escaláveis e alinhadas
 ### 🎯 Stack Focado
 - **Linguagens & Frameworks:**  TypeScript, JavaScript, Java
 - **Banco de Dados:** SQL, NoSQL
-- **DevOps & Cloud:** Docker
 - **Ferramentas de Trabalho:** Git, GitHub, VS Code, IntelliJ IDEA, Drawio, Figma
 - **Idiomas:** Português (Nativo), Inglês Intermediário
 
