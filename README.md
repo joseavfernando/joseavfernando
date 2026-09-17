@@ -13,3 +13,8 @@
 Desenvolvedor focado em desenvolver soluções robustas, escaláveis e alinhadas às melhores práticas de mercado. Tenho experiência com suporte técnico, análise de processos e resolução de bugs, aplicando esse conhecimento para criar arquiteturas eficientes e focadas em performance e qualidade.
 
 ---
+
+## 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,java,postgresql," />
+</div>
